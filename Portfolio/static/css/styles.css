@@ -1,0 +1,45 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .head {
+      padding-top: 30px;
+  }
+
+  .image {
+
+    height: 300px;
+    border-radius: 50px;
+  }
+
+  .header {
+
+    margin-top: 30px;
+    margin-left: 30px;
+  }
+
+
+  .myclass {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .mail-size {
+      font-size: 20px;
+  }
+
+  .foot {
+      text-align: center;
+  }
+
+  .body-out {
+      background-color: antiquewhite;
+      text-align: justify;
+  }
