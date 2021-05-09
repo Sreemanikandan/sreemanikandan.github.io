@@ -37,6 +37,7 @@
 
   .header {
 
+	color: #FDFEFE;
     margin-top: 30px;
   }
 
@@ -58,7 +59,7 @@
 
   .body-out {
 	  color: #efeff5;
-      background-color: black;
+      background-color: #17202A;
       text-align: justify;
   }
   
