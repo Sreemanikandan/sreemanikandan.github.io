@@ -16,17 +16,17 @@
 	  }
 	  
   .vl1 {
-	border-left: 1px solid black;
+	border-left: 1px solid green;
 	height: 450px;
 	}
 	
   .vl2 {
-	border-left: 1px solid black;
+	border-left: 1px solid green;
 	height: 700px;
 	}
 	  
   .vl3 {
-	border-left: 1px solid black;
+	border-left: 1px solid green;
 	height: 400px;
 	}
 	
@@ -57,7 +57,8 @@
   }
 
   .body-out {
-      background-color: antiquewhite;
+	  color: #efeff5;
+      background-color: black;
       text-align: justify;
   }
   
