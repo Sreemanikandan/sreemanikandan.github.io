@@ -68,4 +68,7 @@
 	.header .fa{
 	width:unset;
 	}
+	.foot .fa {
+	padding:0;
+	}
   }
