@@ -11,10 +11,28 @@
       padding-top: 30px;
   }
 
+  .mobilesOnly {
+	  visibility:hidden;
+	  }
+	  
+  .vl1 {
+	border-left: 1px solid black;
+	height: 450px;
+	}
+	
+  .vl2 {
+	border-left: 1px solid black;
+	height: 700px;
+	}
+	  
+  .vl3 {
+	border-left: 1px solid black;
+	height: 400px;
+	}
+	
   .image {
 
-    height: 300px;
-    border-radius: 50px;
+	border-radius: 50px;
   }
 
   .header {
