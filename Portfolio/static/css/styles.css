@@ -64,4 +64,7 @@
 	.head{
 		text-align:center;
 	}
+	.header .fa{
+	width:unset;
+	}
   }
